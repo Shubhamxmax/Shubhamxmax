@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I am **Shubham**, a passionate and dedicated web developer with a strong foundation in front-end technologies.<br><br>**Frontend Skills:** HTML, CSS, JavaScript, React<br>**Currently Learning:** Node.js (Backend Development)<br>**Core Concepts:** Data Structures & Algorithms (DSA)<br><br>I enjoy building responsive, user-friendly, and interactive web applications. Along with development, I actively practice Data Structures and Algorithms to strengthen my problem-solving and logical thinking skills. I am continuously improving myself to become a skilled full-stack developer and create efficient, scalable solutions.<br>
+Hi, I am Shubham, a passionate and dedicated web developer with a strong foundation in front-end technologies.<br><br>Frontend Skills: HTML, CSS, JavaScript, React<br>Currently Learning: Node.js (Backend Development)<br>Core Concepts: Data Structures & Algorithms (DSA)<br><br>I enjoy building responsive, user-friendly, and interactive web applications. Along with development, I actively practice Data Structures and Algorithms to strengthen my problem-solving and logical thinking skills. I am continuously improving myself to become a skilled full-stack developer and create efficient, scalable solutions.<br>
 
 
 ## 🌐 Socials:
