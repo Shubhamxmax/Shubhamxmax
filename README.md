@@ -5,7 +5,7 @@ I am a passionate and dedicated web developer with a strong foundation in front-
 Along with development, I actively practice Data Structures and Algorithms (DSA) to strengthen my problem-solving and logical thinking skills. I am continuously improving myself to become a skilled full-stack developer and create efficient, scalable solutions.  
 
 ### 🚀 Currently Learning  
-- Data  Analytics 
+- Backend 
 
 ### 💻 Skills  
 - HTML  
